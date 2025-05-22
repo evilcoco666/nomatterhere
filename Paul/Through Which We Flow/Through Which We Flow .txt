@@ -1,0 +1,12 @@
+Ireland has over 12 million Internet Protocol addresses assigned to it by the Internet Assigned Numbers Authority - one of the global organisations responsible for the management and distribution of critical internet resources. 
+
+
+From local businesses (185.38.60.0 - 185.38.63.255) to defunct state bodies (212.63.167.36 - 212.63.167.39), to the transnational tech companies that increasingly dominate our physical and digital spaces (216.137.56.0 - 216.137.57.255), these addresses reveal Ireland’s transition from the edge of the Internet’s infrastructure to its core. 
+
+They also tell our stories. 
+
+The memory, the meta, the matter 
+
+through which we flow. 
+
+

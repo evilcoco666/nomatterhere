@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+
+
+
+#container main {
+	width: 100%;
+	
+	
+}
+
+
+#container div {
+	clear: both;
+	float: none;
+}
+#container article {
+	background-color: rgba(0,0,0,1.00);
+	color: rgba(255,252,252,1.00);
+	
+	width: 45%;
+	margin-left: 5%;
+	font-family: courier-prime;
+	font-style: normal;
+	font-weight: 400;
+	font-size: small;
+	
+}
+#container aside {
+	background-color: rgba(0,0,0,1.00);
+	color: rgba(255,255,255,1.00);
+	width: 45%;
+	
+	margin-left: 5%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+#container section {
+	float: right;
+	clear: both;
+}
+
+
+#container footer {
+	margin-left: 280px;
+	margin-top: 20px;
+}
+#container gif {
+	clear: both;
+	float: right;
+	margin-right: 88px;
+	margin-top: 245px;
+}
+#container .constructon {
+	width: 24%;
+	margin-left: 10%;
+	margin-right: auto;
+	padding-top: 500px;
+}
+#img1  {
+	width: 22%;
+	float: right;
+	clear: both;
+}

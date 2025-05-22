@@ -1,0 +1,304 @@
+@charset "UTF-8";
+
+	
+
+
+body {
+	background-image: url("");
+	background-repeat: repeat;
+	
+	
+}
+
+	
+#container {
+	margin: auto;
+	width: 80%;
+	text-align: center;
+	clear: both;
+	}
+
+
+
+
+#container header {
+	clear: none;
+	float: left;
+	width: 1200px;
+	height: 70px;
+	font-size: 13px;
+	color: rgba(250,0,4,1.00);
+	text-align: center;
+	border-radius: 9px;
+	margin-left: 100px;
+	background-color: none;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-variant: normal;
+	display: block;
+	transform: translateX(100%); /* Animation start out of the screen */
+	/* Add the animation */
+	animation: move 20s linear infinite /* infinite make reapeat the animation indefinitely */;
+}
+#banana {
+	margin-top: 1px;
+	margin-bottom: -3px;
+}
+
+/* Create the animation */
+@keyframes move {
+  to { transform: translateX(-100%);
+}
+
+
+
+}
+#container section {
+	color: rgba(0,0,0,0.0);
+	
+	width: 73%;
+	margin: auto;
+	clear: both;
+}
+#container nav {
+	height: 0px;
+	color: rgba(255,0,4,1.00);
+	width: 90%;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding-bottom: 3%;
+	font-size: x-large;
+}
+#container article {
+	display: inline-block;
+	width: 90%;
+	height: 60%;
+	color: rgba(255,249,249,1.00);
+	text-align: left;
+	background-color: rgba(0,0,0,1.00);
+	font-family: normal;
+	font-style: normal;
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-shadow: 7px 7px 12px -1px rgba(255,255,255,1.00);
+	box-shadow: 7px 7px 12px -1px rgba(255,255,255,1.00);
+}
+#container footer {
+	clear: both;
+	margin-left: auto;
+	margin-right: 40%;
+	padding-top: 105px;
+	width: 20%;
+}
+#gif2  {
+	clear: both;
+	width: 30%;
+	padding-top: 120px;
+	margin left: auto;
+	margin-right: auto;
+	padding-bottom: 0
+	
+	
+}
+#gif  {
+	width: 150px;
+	float: right;
+	margin-top: 10%;
+	margin-right: auto;
+	margin-left: 10%;
+	clear: none;
+}
+#gif3  {
+	width: 30%;
+	padding-top: 89px;
+	padding-bottom: 200px;
+	margin-left: 0%;
+	float: left;
+}
+#cola  {
+	width: 57%;
+	padding-top: 132px;
+	float: right;
+	clear: none;
+	padding-right: 0px;
+	margin-right: 18%;
+}
+#interneteireann {	
+		width: 10px;
+	padding-top: 40px;
+  position: relative;
+  animation: myfirst 5s linear 2s infinite alternate;
+}
+
+@keyframes myfirst {
+  0%   { transform: rotate(0deg);
+    left: 0px; }
+  25%  { transform: rotate(20deg);
+    left: 0px;}
+  50%  {  transform: rotate(0deg);
+    left: 500px }
+  75%  { transform: rotate(0deg);
+    left: 500px;
+    }
+  100% { transform: rotate(-360deg);
+    left: 0px;
+
+}
+
+
+
+
+#list {
+	width: 44%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+	 ul {list-style-image: url('geo/archive/bullet points/bultwld.gif');
+  list-style-position: outside;
+		 align-items: center;
+        
+		 
+		
+}
+
+
+}
+
+
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+   text-decoration: none;
+	
+}
+
+
+#stopeircom {
+	width: 50%;
+	position: relative;
+	animation-name: stopeircom;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	
+}
+
+@keyframes stopeircom {
+  0%   { left:0px; }
+  25%  { left:100px; }
+  50%  { left:200px; }
+  75%  { left:0px; }
+  100% { left:100px; }
+}
+
+
+
+
+#credits {
+	background-color: rgba(36,61,144,1.00);
+	color: rgba(255,255,255,1.00);
+	width: 30%;
+	margin-top: 0px;
+	-webkit-box-shadow: 8px 8px 19px -5px rgba(249,245,245,1.00);
+	box-shadow: 8px 8px 19px -5px rgba(249,245,245,1.00);
+	height: 9%;
+	clear: both;
+}
+#gifanimator {
+	height: 0%;
+	width: 10%;
+	margin-top: 40%;
+	margin-bottom: 100px;
+}
+#bannner {
+	 display; inline-block; 
+	
+	
+	
+}
+#nun {
+	padding-top: 15%;
+	width: 1%;
+	float: right;
+	
+}
+article div {
+	margin-top: 0px;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+#new {
+	padding-top: 187px;
+	width: 1%;
+	float: left;
+	clear: both;
+}
+
+#update{
+	padding-top: 300px;
+	padding-right: 6px;
+}
+#ascii {
+	width: 5%;
+	float: right;
+	clear: none;
+	margin-right: 42%;
+	padding-top: 351px;
+	padding-bottom: 369px;
+}
+
+#anto2 {
+	clear: both;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#list {
+	background-image: url(geo/archive/tiles/wback1.gif);
+	text-align: left;
+	
+	list-style-image: url('geo/archive/bullet points/bultwld.gif');
+	color: red;
+	padding: 0;
+	marging: 0;
+	font-style: italic;
+	width: 45%;
+	margin-left: 30%;
+	margin-right: 30%;
+	text-shadow: 3px 4px 0px rgba(79,85,254,1.00);
+	word-spacing: 0px;
+	letter-spacing: 2px;
+	-webkit-box-shadow: -1px 1px 34px 1px rgba(15,90,2,1.00);
+	box-shadow: -1px 1px 34px 1px rgba(15,90,2,1.00);
+}
+
+article #list h2 {
+	text-align: center;
+}
+#opencall {
+	background-color: rgba(36,61,144,1.00);
+	width: 30%;
+	margin-left: 80%;
+	marginright: 10%;
+	color: white;
+	-webkit-box-shadow: 5px 5px 10px -3px rgba(255,255,255,1.00);
+	box-shadow: 5px 5px 10px -3px rgba(255,255,255,1.00);
+}
+.comment {
+	background-color: rgba(36,61,144,1.00);
+}

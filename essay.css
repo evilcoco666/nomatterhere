@@ -1,0 +1,55 @@
+@charset "UTF-8";
+#container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+#container header {
+	font-family: courier-prime;
+	font-style: normal;
+	font-weight: 400;
+	width: 63%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#container article {
+	width: 50%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-top: 13px;
+	padding-right: 124px;
+	padding-bottom: 124px;
+	padding-left: 122px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#container footer {
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 20px;	
+}
+#container aside {
+	width: 7%;
+	clear: right;
+	float: right;
+	padding-top: 224px;
+	top: 0px;
+}
+#container section {
+	padding-top: 211px;
+}
+#anchor  {
+	clear: both;
+	padding-top: 1051px;
+	padding-right: 65px;
+	padding-bottom: 65px;
+	padding-left: 65px;
+}
+#ddrlink {
+	width: 8%;
+	padding-top: 370px;
+	float: left;
+	
+	
+}
